@@ -1,4 +1,4 @@
-# Login & Register Template
+# Login & Register Template (Bootstrap 5.2)
 
 Login Demo: <b>soon</b> <br>
 Register Demo: <b>soon</b>
