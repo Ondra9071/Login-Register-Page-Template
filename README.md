@@ -3,6 +3,8 @@
 Login Demo: <b>soon</b> <br>
 Register Demo: <b>soon</b>
 
+<b>Bootstrap Version: 5.2</b>
+
 This is a responsive (mobile/desktop) and light-weight HTML/CSS template for login and signup page, everything is customizable.
 
 This template is tested and worked on:
